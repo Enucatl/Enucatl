@@ -1,5 +1,9 @@
 Hi, I'm @Enucatl. I'm interested in programming, data science, machine learning and artificial intelligence.
 
+The repos I'm currently using are in my main profile:
+
+-  [enucatl](https://github.com/Enucatl)
+  
 I organized my older repositories in separate organizations:
 
 - [enucatl-phd](https://github.com/orgs/enucatl-phd/repositories) for code, papers and the thesis I wrote during my PhD in X-ray physics (2013-2018)
