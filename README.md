@@ -29,4 +29,4 @@
   - **AI/LLM**: RAG, embeddings, vector search, OCR, multimodal pipelines, agent memory
   - **Infrastructure**: Docker, Proxmox, Puppet, Ansible, VyOS, Vault, FreeIPA
   - **Operations**: Linux, networking, observability, backups, self-hosted services
-  - **Cloud**: Google Cloud, Azure
+  - **Cloud**: Google, Azure
