@@ -35,8 +35,7 @@
   ## Technical Areas
 
   - Python, Rust, Shell
-  - LLM applications and agent workflows
+  - LLM applications and agent workflows: self-hosted, google and azure cloud
   - RAG, embeddings, vector search
   - OCR and multimodal document AI
-  - Self-hosted inference and home-lab infrastructure
   - Automation, bots, and developer tooling
