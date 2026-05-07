@@ -26,7 +26,7 @@
   ## Technical Stack
 
   - **Languages**: Python, Rust, Shell
-  - **AI/LLM**: RAG, embeddings, vector search, OCR, multimodal pipelines, agent memory
+  - **AI/LLM**: RAG, embeddings, vector search, OCR, multimodal pipelines, agent memory, training, finetuning
   - **Infrastructure**: Docker, Proxmox, Puppet, Ansible, VyOS, Vault, FreeIPA
   - **Operations**: Linux, networking, observability, backups, self-hosted services
   - **Cloud**: Google, Azure
