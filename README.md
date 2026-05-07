@@ -1,4 +1,4 @@
-• # Matteo
+# Matteo
 
   I build agentic AI systems that combine LLMs, retrieval, memory, multimodal document processing, automation, and infrastructure.
 
